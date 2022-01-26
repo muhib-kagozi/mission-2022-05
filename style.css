@@ -107,3 +107,43 @@ h2
 {
     margin-bottom: 100px;
 }
+.global-sec
+{
+    display: flex;
+    margin-top: 100px;
+    padding-bottom: 150px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 1450px 350px;
+    background-size: 250px;
+}
+.global-div
+{
+    margin-left: 9%;
+    margin-right: 10%;
+}
+.global-div p
+{
+    margin-bottom: 100px;
+}
+.global-img
+{
+    width: 500px;
+    margin-right: 300px;
+}
+footer
+{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-bottom: 60px;
+    padding-top: 30px;
+}
+footer h3
+{
+    font-size: 40px;
+}
+.footer-color
+{
+    color: tomato;
+}
